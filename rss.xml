@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Memo Rogue]]></title>
+        <description><![CDATA[Memo Rogue]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Dec 2015 15:45:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The 'Glass Cliff' Phenomenon That Senior Female Leaders Face Today And How To Avoid It]]></title>
+            <description><![CDATA[<article><h1>The 'Glass Cliff' Phenomenon That Senior Female Leaders Face Today And How To Avoid It</h1><p>Among CEOs leaving office over the past 10 years, a higher share of women have been forced out than men. Here's how to avoid the 'glass cliff.'</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a0f2375ceef3b3d12259ef9397091b80095988a.jpg"></article>]]></description>
+            <link>http://www.forbes.com/sites/kathycaprino/2015/10/20/the-glass-cliff-phenomenon-that-senior-female-leaders-face-today-and-how-to-avoid-it/?ss=forbes-woman</link>
+            <guid isPermaLink="false">4aafff1e-0232-4cb5-ad8a-00dd687a47a2</guid>
+            <pubDate>Sat, 19 Dec 2015 15:45:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
