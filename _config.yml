@@ -2,6 +2,7 @@ name: Memo Rogue
 favicon: null
 layout_spectrum: 0.50131
 typography_spectrum: 1
+title: Memo Rogue
 cta:
   domain: null
   bucket: null
