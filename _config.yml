@@ -1,7 +1,7 @@
 name: Memo Rogue
 favicon: null
-layout_spectrum: 0.37115817167796195
-typography_spectrum: 0.3751381728798151
+layout_spectrum: 0.50131
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#212222'
+    - '#e16a84'
+    - '#ffffff'
+    - '#7e7b7a'
+    - '#6f404a'
   brandStrength: 0.9879063640255481
-  lightness: 0.9972709401044995
+  lightness: 0
   saturation: 0.36598023399710655
   rhythmicContrast: 0.5893485757987946
 purpose: []
