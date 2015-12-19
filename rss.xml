@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[Memo Rogue]]></title>
         <description><![CDATA[Memo Rogue]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/memo-rogue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 15:45:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 15:45:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/memo-rogue/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://media.vogue.com/r/h_480,w_660//wp-content/uploads/2015/11/23/coats-for-every-body-type-1.jpg">]]></description>
+            <link>https://thegrid.ai/memo-rogue/99a427bd-6a00-4e79-82b7-8006aaae3fda/index.html</link>
+            <guid isPermaLink="false">99a427bd-6a00-4e79-82b7-8006aaae3fda</guid>
+            <pubDate>Sat, 19 Dec 2015 15:45:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[how to be more generous at work]]></title>
+            <description><![CDATA[<article><h1>how to be more generous at work</h1><p>Five top tips for sharing the love in the office</p><img src="http://assets-prod.harpersbazaar.co.uk/culture-and-news/news/Generous-Square.jpg"></article>]]></description>
+            <link>http://www.harpersbazaar.co.uk/people-parties/bazaar-at-work/how-to-be-more-generous-at-work</link>
+            <guid isPermaLink="false">ff979db9-b036-4680-a171-3585f96d02ec</guid>
+            <pubDate>Sat, 19 Dec 2015 15:45:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The 'Glass Cliff' Phenomenon That Senior Female Leaders Face Today And How To Avoid It]]></title>
             <description><![CDATA[<article><h1>The 'Glass Cliff' Phenomenon That Senior Female Leaders Face Today And How To Avoid It</h1><p>Among CEOs leaving office over the past 10 years, a higher share of women have been forced out than men. Here's how to avoid the 'glass cliff.'</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a0f2375ceef3b3d12259ef9397091b80095988a.jpg"></article>]]></description>
